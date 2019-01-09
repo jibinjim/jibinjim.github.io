@@ -1,14 +1,14 @@
 # Site settings ...
-uri: domain.com
-url: https://domain.com
-name: Your name
-title: Mangan Jekyll Theme
-email: example@domain.com
-author: username
+uri: jibinjose.com
+url: https://jibinjose.com
+name: Jibin Jose
+title: Jibin Jose
+email: jj@jibinjose.com
+author: Jibin Jose
 baseurl: ""
-keywords: "Your, Keyword, Here"
-description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione nihil, velit odio quia autem quos. Natus itaque sint, nisi fuga dolorum. Iste ea cumque, aliquam dignissimos vitae labore atque minima?"
-social_username: username
+keywords: "Jibin Jose, Flipmotion, jibinjim, jj, Rethink"
+description: "Personal website of Jibin Jose"
+social_username: jibinjim
 
 # Build settings ...
 sass:
